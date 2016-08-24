@@ -1,0 +1,22 @@
+{
+  "name": "chakramdemo",
+  "version": "1.0.0",
+  "description": "Chakram Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmateo/ChakramDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmateo/ChakramDemo/issues"
+  },
+  "homepage": "https://github.com/acmateo/ChakramDemo#readme",
+  "devDependencies": {
+    "chakram": "^1.4.0"
+  }
+}
